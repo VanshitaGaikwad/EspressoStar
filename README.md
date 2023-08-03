@@ -13,3 +13,7 @@
 Technologies used in the project:
 
 *   WIX
+
+
+https://github.com/VanshitaGaikwad/EspressoStar/assets/91469789/6adf5b04-bd8f-44af-96bd-4bb4e383b082
+
